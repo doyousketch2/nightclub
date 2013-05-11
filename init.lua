@@ -1,6 +1,6 @@
 --
 -- Nightclub mod by Doyousketch2
-ver = " 0.6 "
+ver = " 1.6 "
 -- Sat 11 May 2013 01:29:26 AM EDT 
 --
 --

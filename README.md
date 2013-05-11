@@ -1,5 +1,5 @@
 Doyousketch2's Nightclub mod
-ver 0.6
+ver 1.6
 
 Dance floor image: http://oi42.tinypic.com/28tog6.jpg
 
