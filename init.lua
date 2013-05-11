@@ -1,10 +1,10 @@
 --
 -- Nightclub mod by Doyousketch2
 ver = " 0.6 "
--- Wed 08 May 2013 08:35:25 AM EDT 
+-- Sat 11 May 2013 01:29:26 AM EDT 
 --
 --
--- Blacklight modified from VanessaE's homedecor glowlights.
+-- lights modified from VanessaE's homedecor glowlights.
 -- init.lua loosely based on Rabbi Bob's Bob blocks.
 --
 -- info from http://www.drinksmixer.com/guide/
