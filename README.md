@@ -1,11 +1,15 @@
 Doyousketch2's Nightclub mod
 ver 0.6
 
-Image: http://oi47.tinypic.com/hst6s3.jpg
+Dance floor image: http://oi42.tinypic.com/28tog6.jpg
 
-==============================================================================
+Bar items image: http://oi44.tinypic.com/nghtx.jpg
+
+=========================================
 
 Dependencies: default
+
+=========================================
 
 to Install:
 
