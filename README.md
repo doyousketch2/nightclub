@@ -9,7 +9,7 @@ Bar items image: http://oi44.tinypic.com/nghtx.jpg
 
 Dependencies: default
 
-LICENSING INFORMATION:
+License Info:
 Code: GPL 2.0/later,
 Textures: CC-BY-SA 3.0
 
