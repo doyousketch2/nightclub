@@ -1,5 +1,5 @@
 Doyousketch2's Nightclub mod
-ver 1.9
+ver 2.0
 
 Dance floor image: http://oi42.tinypic.com/28tog6.jpg
 
@@ -21,11 +21,11 @@ Textures: CC-BY-SA 3.0
 
 to Install:
 
-Unzip the mod file you just downloaded.
+Unzip nightclub_master.zip in your Minetest mods folder.
 
-it should be something like: nightclub-19.zip
+You'll 'prolly want to rename the dir to simply read "nightclub"
 
-then move the "nightclub" folder into your Minetest mods folder.
+The "_master" thing is a GitHub naming convention, and isn't needed for Minetest.  
 
 ==============================================================================
 
