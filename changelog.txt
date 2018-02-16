@@ -145,3 +145,28 @@ ver 1.6
 
 added drinks: rum, absinthe
 
+------------------------
+
+Fri 31 May 2013
+
+ver 1.7
+
+added beer tap
+
+------------------------
+
+Sat 01 Jun 2013
+
+ver 1.8
+
+added bar stools and towels
+
+------------------------
+
+Sat 01 Jun 2013
+
+ver 1.9
+
+added citrus juicer
+
+

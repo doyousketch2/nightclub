@@ -1,7 +1,7 @@
 --
 -- Nightclub mod by Doyousketch2
-ver = " 1.6 "
--- Sat 11 May 2013 01:29:26 AM EDT 
+ver = " 1.9 "
+-- Sat 01 Jun 2013 05:49:14 PM EDT 
 --
 --
 -- lights modified from VanessaE's homedecor glowlights.
@@ -35,9 +35,13 @@ dofile(modpath.."/bar_tools/cutting_board.lua")
 
 dofile(modpath.."/bar_tools/knife.lua")
 
---[[
+dofile(modpath.."/bar_tools/tap_handles.lua")
+
+dofile(modpath.."/bar_tools/bar_stool.lua")
 
 dofile(modpath.."/bar_tools/towel.lua")
+
+--[[
 
 dofile(modpath.."/bar_tools/bottle_opener.lua")
 
@@ -53,9 +57,9 @@ dofile(modpath.."/bar_tools/ice_bucket.lua")
 dofile(modpath.."/bar_tools/bar_tools.lua")
 -- jigger, bar spoon, corkscrew, cork
 
-dofile(modpath.."/bar_tools/juicer.lua")
-
 --]]
+
+dofile(modpath.."/bar_tools/juicer.lua")
 
 
 -------------------------------------
