@@ -173,6 +173,8 @@ added citrus juicer
 
 Wed 7 Feb 2018
 
+ver 2.0
+
 Revisited & tidied up code,
 added closing-bracket notes,
 
@@ -180,3 +182,6 @@ labeled   x1, y1, z1,   x2, y2, z2
 but remember, in Minetest, Y-axis is up.
 Z is depth, and goes into screen.
 
+better Absinthe glasses
+Tap-handles pullable, and noisy
+Can-opener creaks when you wield & use it
