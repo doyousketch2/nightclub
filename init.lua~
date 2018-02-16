@@ -1,15 +1,18 @@
 -- Nightclub mod for Minetest by @Doyousketch2
--- Wed 7 Feb 2018                GNU GPL 3.0
-
+--
 -- https://forum.minetest.net/viewtopic.php?f=9&t=5939
 -- https://github.com/doyousketch2/nightclub
-
+-- 
+--
+-- Wed 7 Feb 2018
+-- GNU GPL 3.0 or higher
+--
 -- info from http://www.drinksmixer.com/guide/
 -- http://en.wikipedia.org/wiki/List_of_glassware
-
+--
 -- lights modified from VanessaE's homedecor glowlights.
 -- init.lua loosely based on Rabbi Bob's Bob blocks.
-
+--
 -- note to self: be sure to include
 -- drop  = 'nightclub:stuff',
 -- in every file

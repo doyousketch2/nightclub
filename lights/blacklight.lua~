@@ -235,7 +235,6 @@ minetest .register_node( 'nightclub:blacklight_bulb_wall',
     drop  = 'nightclub:blacklight_bulb',
     description  = ('Blacklight bulb, on wall'),
     drawtype  = 'nodebox',
-
     tiles  = {
       'blacklight.png',       -- top
       'blacklight.png',        -- bottom

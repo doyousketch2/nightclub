@@ -20,6 +20,7 @@ minetest.register_node( 'nightclub:disco_ball',
     sounds  = default .node_sound_glass_defaults(),
     groups  = { snappy = 1,  choppy = 2,  oddly_breakable_by_hand = 2 },
 
+    drawtype  = 'nodebox',
     node_box  = {
       type  = 'fixed',
       fixed  = {

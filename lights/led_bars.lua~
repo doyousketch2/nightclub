@@ -6,7 +6,7 @@
 
 minetest .register_node( 'nightclub:led_bars',
   {
-    drop  = 'nightclub:led_bars',
+    drop  = 'nightclub:led_bars'
     description  = ('LED bars'),
     drawtype  = 'nodebox',
 
@@ -86,7 +86,7 @@ minetest .register_node( 'nightclub:led_bars',
 
 minetest .register_node( 'nightclub:led_bars_wall',
   {
-    drop  = 'nightclub:led_bars',
+    drop  = 'nightclub:led_bars'
     description  = ('LED bars on wall'),
     drawtype = 'nodebox',
 
